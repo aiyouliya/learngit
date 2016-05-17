@@ -7,3 +7,4 @@
 7. git reset hard --HEAD^   #  回归上一个版本
 8. git reset --hard <版本号前几位数字>   # 回归到指定的版本号
 9. git reflog  	#  记录每一次命令
+10.git add 
